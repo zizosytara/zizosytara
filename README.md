@@ -1,40 +1,36 @@
-<div align="center" width="50">
+<div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/ziadriyad" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/ziadriyad" alt="Workspace" width="40%"/><br> 
+# Hi there, I'm Ziad Riyad 👋
+### C++ Developer | Algorithms Expert | From Egypt 🇪🇬
 
-<details>
-<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
+[![Visits](https://komarev.com/ghpvc/?username=ziadriyad&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/ziadriyad)
+[![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![Algorithms](https://img.shields.io/badge/-Algorithms-ff69b4?style=flat)](https://en.wikipedia.org/wiki/Algorithm)
+[![Egypt](https://img.shields.io/badge/-Egypt-007500?style=flat)](https://en.wikipedia.org/wiki/Egypt)
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USER) <be>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ0Y3FyY2x4dW1tY2V0eWZ2b2J6Y2VlZ3N4dGJzZzR4eWZ6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
-</details>
-
-![Profile Views](https://komarev.com/ghpvc/?username=ziadriyad&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fziadriyad&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/Ziad_Riyad-grey?style=flat&logo=telegram)](https://t.me/YOUR_TELEGRAM) <br>
 </div>
 
-<hr>
-
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
-![semicolon](https://img.shields.io/badge/-%3A-orange)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![Algorithms](https://img.shields.io/badge/-Algorithms-blue)
-![Data Structures](https://img.shields.io/badge/-Data%20Structures-blue)
-![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+## 🔥 My Skills
 
 ```cpp
-// My Skills Overview
+// Skills in C++ terms
+#include <skills.h>
 
-class AboutMe {
-public:
-    const vector<string> programmingLanguages = {"C++", "C", "Python"};
-    const vector<string> expertise = {"Algorithms", "Data Structures", "Problem Solving"};
-    const vector<string> tools = {"Git", "VS Code", "Linux"};
-    const vector<string> learning = {"Advanced C++", "Competitive Programming"};
+enum class SkillLevel { Expert, Advanced, Intermediate };
+
+struct Skill {
+    string name;
+    SkillLevel level;
+    string icon;
+};
+
+vector<Skill> mySkills = {
+    {"C++", SkillLevel::Expert, "🧠"},
+    {"Algorithms", SkillLevel::Expert, "⚡"},
+    {"Data Structures", SkillLevel::Advanced, "📊"},
+    {"Problem Solving", SkillLevel::Advanced, "🔍"},
+    {"Competitive Programming", SkillLevel::Intermediate, "🏆"},
+    {"Git", SkillLevel::Intermediate, "🔀"}
 };
