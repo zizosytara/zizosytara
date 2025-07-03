@@ -6,31 +6,30 @@
 
 ---
 
-### I'm Ziad Riyad — C++ Developer & Algorithm Enthusiast
+<h2>👋 I’m Ziad Riyad — C++ Developer & Algorithms Enthusiast</h2>
 
-🔹 Focused on performance-driven solutions using **C++**  
-🔹 Passionate about **Algorithms**, **Problem Solving**, and **System Programming**  
-🔹 Building clean, optimized, and scalable code  
-🔹 Exploring **Linux**, low-level programming, and version control (Git)
+🔹 Passionate about solving complex problems with efficient C++ code  
+🔹 Strong background in algorithms, data structures, and system design  
+🔹 Exploring low-level programming and Linux systems  
+🔹 Advocate of clean, readable, and performant code
 
 </div>
 
 ---
 
-### 💻 Languages & Tools
+### 🛠️ Tech Stack
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-![Json](https://img.shields.io/badge/JSON-5E5C5C?style=flat&logo=json&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <div align="center">
 
@@ -39,7 +38,7 @@
 <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32%">
 
 <details>
-  <summary>More Details</summary>
+  <summary>Click for more</summary>
   <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg">
 </details>
 
@@ -47,10 +46,10 @@
 
 ---
 
-### 🎧 While Coding...
+### 🎧 Coding Music
 
 <details>
-  <summary>Spotify Mood 🎶</summary>
+  <summary>Now Playing on Spotify</summary>
   <p align="center">
     <a href="https://open.spotify.com/user/somnathpaul">
       <img src="https://spotify-readme.sp-xd.vercel.app/api/spotify" alt="Spotify Now Playing"/>
@@ -60,7 +59,7 @@
 
 ---
 
-### 🔗 Connect with Me
+### 📬 Connect with Me
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-Ziad_Riyad-blue?style=flat&logo=telegram)](https://t.me/spxd007)
 
@@ -71,10 +70,11 @@
 
 ---
 
-### 🧠 Code & Repeat
+### 🔁 Code — Debug — Repeat
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Code Loop"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Endless Loop"/>
 
-> Consistency, Curiosity, and Clean Code.
+> "Focus, write smart code, and keep growing."
+
 
 
