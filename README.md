@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Ziad Riyad 👋
-### C++ Developer | Algorithms Expert | From Egypt 🇪🇬
+### C++ Developer | Algorithms Expert 
 
 [![Visits](https://komarev.com/ghpvc/?username=ziadriyad&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/ziadriyad)
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
