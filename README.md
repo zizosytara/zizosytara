@@ -1,50 +1,40 @@
-<div align="center">
+<div align="center" width="50">
 
-<!-- Awesome C++ Animated Header -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9tN2V1b2Z4Z2p4c3R5Y2N5Z2V5Z2x6eXZ5dGJqN2R6d2Z6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ll22OhMLAlVDb8UQWe/giphy.gif" width="500"/>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/ziadriyad" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/ziadriyad" alt="Workspace" width="40%"/><br> 
 
-<h1> Ziad Riyad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h1>
-<h3> 🚀 Expert C++ Developer | Algorithms Specialist | Competitive Programmer </h3>
+<details>
+<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
 
-<!-- Flags with animation -->
-<p align="center">
-  <img src="https://media.giphy.com/media/XcQVRGACY9ZKM/giphy.gif" width="30"> 
-  <img src="https://media.giphy.com/media/fs6RTJdGx01ZPq8fIY/giphy.gif" width="30">
-</p>
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USER) <be>
 
-<!-- Tech Stack Animated Icons -->
-<p align="center">
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="40">
-  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="40">
-  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="40">
-  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="40">
-</p>
+</details>
 
+![Profile Views](https://komarev.com/ghpvc/?username=ziadriyad&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fziadriyad&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+[![telegram badge](https://img.shields.io/badge/Ziad_Riyad-grey?style=flat&logo=telegram)](https://t.me/YOUR_TELEGRAM) <br>
 </div>
 
-## 🔥 LeetCode Stats
-<div align="center">
+<hr>
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=ABeeZee)](https://leetcode.com/YOUR_USERNAME/)
+![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
+![semicolon](https://img.shields.io/badge/-%3A-orange)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![Algorithms](https://img.shields.io/badge/-Algorithms-blue)
+![Data Structures](https://img.shields.io/badge/-Data%20Structures-blue)
+![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-</div>
-
-## 🛠️ My C++ Toolkit
 ```cpp
-#include <developer_tools.h>
+// My Skills Overview
 
-class MyStack {
-private:
-    vector<string> languages = {"C++20", "C17", "Python3"};
-    vector<string> frameworks = {"STL", "Boost", "Qt"};
-    vector<string> tools = {"GDB", "Valgrind", "CMake", "Git"};
-    vector<string> platforms = {"Linux", "Windows", "Embedded"};
-    
+class AboutMe {
 public:
-    void displaySkills() {
-        cout << "🚀 My Development Stack:\n";
-        for(auto& tool : tools) {
-            cout << "⚙️ " << tool << "\n";
-        }
-    }
+    const vector<string> programmingLanguages = {"C++", "C", "Python"};
+    const vector<string> expertise = {"Algorithms", "Data Structures", "Problem Solving"};
+    const vector<string> tools = {"Git", "VS Code", "Linux"};
+    const vector<string> learning = {"Advanced C++", "Competitive Programming"};
 };
