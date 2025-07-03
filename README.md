@@ -1,57 +1,51 @@
+
 <div align="center">
 
-<!-- Professional Animated Banner -->
-<img src="https://raw.githubusercontent.com/ziadriyad/ziadriyad/main/assets/banner.gif" width="800"/>
+<!-- Awesome C++ Animated Header -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9tN2V1b2Z4Z2p4c3R5Y2N5Z2V5Z2x6eXZ5dGJqN2R6d2Z6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ll22OhMLAlVDb8UQWe/giphy.gif" width="500"/>
 
-<!-- Animated Title with Typing Effect -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=600&lines=Ziad+Riyad;Senior+C%2B%2B+Engineer;Algorithms+Specialist;Systems+Architect;From+Egypt+%F0%9F%87%AA%F0%9F%87%AC" alt="Typing Animation" />
-  </a>
-</h1>
+<h1> Ziad Riyad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h1>
+<h3> 🚀 Expert C++ Developer | Algorithms Specialist | Competitive Programmer </h3>
 
-<!-- Professional Badges -->
+<!-- Flags with animation -->
 <p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-Professional-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Systems-Architect-important?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Certified-Developer-blueviolet?style=for-the-badge"/>
+  <img src="https://media.giphy.com/media/XcQVRGACY9ZKM/giphy.gif" width="30"> 
+  <img src="https://media.giphy.com/media/fs6RTJdGx01ZPq8fIY/giphy.gif" width="30">
 </p>
 
-<!-- Tech Stack Carousel -->
-<img src="https://raw.githubusercontent.com/ziadriyad/ziadriyad/main/assets/techstack.gif" width="700"/>
+<!-- Tech Stack Animated Icons -->
+<p align="center">
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="40">
+  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="40">
+  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="40">
+  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="40">
+</p>
 
 </div>
 
-## 🏆 Professional Expertise
+## 🔥 LeetCode Stats
+<div align="center">
 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=ABeeZee)](https://leetcode.com/YOUR_USERNAME/)
+
+</div>
+
+## 🛠️ My C++ Toolkit
 ```cpp
-// Professional Skills Framework
-namespace ProfessionalSkills {
-    enum class CompetencyLevel {
-        Principal, Senior, Professional
-    };
+#include <developer_tools.h>
 
-    struct CoreCompetency {
-        string name;
-        CompetencyLevel level;
-        vector<string> technologies;
-    };
-
-    const vector<CoreCompetency> Profile = {
-        {
-            "Modern C++ Development", 
-            CompetencyLevel::Principal,
-            {"C++20/23", "STL", "Boost", "Template Metaprogramming"}
-        },
-        {
-            "High-Performance Computing",
-            CompetencyLevel::Senior,
-            {"Multithreading", "SIMD", "GPU Computing", "Lock-free Patterns"}
-        },
-        {
-            "Systems Architecture",
-            CompetencyLevel::Professional,
-            {"Design Patterns", "Microservices", "Distributed Systems"}
+class MyStack {
+private:
+    vector<string> languages = {"C++20", "C17", "Python3"};
+    vector<string> frameworks = {"STL", "Boost", "Qt"};
+    vector<string> tools = {"GDB", "Valgrind", "CMake", "Git"};
+    vector<string> platforms = {"Linux", "Windows", "Embedded"};
+    
+public:
+    void displaySkills() {
+        cout << "🚀 My Development Stack:\n";
+        for(auto& tool : tools) {
+            cout << "⚙️ " << tool << "\n";
         }
-    };
-}
+    }
+};
