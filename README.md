@@ -1,36 +1,57 @@
 <div align="center">
 
-# Hi there, I'm Ziad Riyad 👋
-### C++ Developer | Algorithms Expert | From Egypt 🇪🇬
+<!-- Professional Animated Banner -->
+<img src="https://raw.githubusercontent.com/ziadriyad/ziadriyad/main/assets/banner.gif" width="800"/>
 
-[![Visits](https://komarev.com/ghpvc/?username=ziadriyad&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/ziadriyad)
-[![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![Algorithms](https://img.shields.io/badge/-Algorithms-ff69b4?style=flat)](https://en.wikipedia.org/wiki/Algorithm)
-[![Egypt](https://img.shields.io/badge/-Egypt-007500?style=flat)](https://en.wikipedia.org/wiki/Egypt)
+<!-- Animated Title with Typing Effect -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=600&lines=Ziad+Riyad;Senior+C%2B%2B+Engineer;Algorithms+Specialist;Systems+Architect;From+Egypt+%F0%9F%87%AA%F0%9F%87%AC" alt="Typing Animation" />
+  </a>
+</h1>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ0Y3FyY2x4dW1tY2V0eWZ2b2J6Y2VlZ3N4dGJzZzR4eWZ6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+<!-- Professional Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-Professional-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Systems-Architect-important?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Certified-Developer-blueviolet?style=for-the-badge"/>
+</p>
+
+<!-- Tech Stack Carousel -->
+<img src="https://raw.githubusercontent.com/ziadriyad/ziadriyad/main/assets/techstack.gif" width="700"/>
 
 </div>
 
-## 🔥 My Skills
+## 🏆 Professional Expertise
 
 ```cpp
-// Skills in C++ terms
-#include <skills.h>
+// Professional Skills Framework
+namespace ProfessionalSkills {
+    enum class CompetencyLevel {
+        Principal, Senior, Professional
+    };
 
-enum class SkillLevel { Expert, Advanced, Intermediate };
+    struct CoreCompetency {
+        string name;
+        CompetencyLevel level;
+        vector<string> technologies;
+    };
 
-struct Skill {
-    string name;
-    SkillLevel level;
-    string icon;
-};
-
-vector<Skill> mySkills = {
-    {"C++", SkillLevel::Expert, "🧠"},
-    {"Algorithms", SkillLevel::Expert, "⚡"},
-    {"Data Structures", SkillLevel::Advanced, "📊"},
-    {"Problem Solving", SkillLevel::Advanced, "🔍"},
-    {"Competitive Programming", SkillLevel::Intermediate, "🏆"},
-    {"Git", SkillLevel::Intermediate, "🔀"}
-};
+    const vector<CoreCompetency> Profile = {
+        {
+            "Modern C++ Development", 
+            CompetencyLevel::Principal,
+            {"C++20/23", "STL", "Boost", "Template Metaprogramming"}
+        },
+        {
+            "High-Performance Computing",
+            CompetencyLevel::Senior,
+            {"Multithreading", "SIMD", "GPU Computing", "Lock-free Patterns"}
+        },
+        {
+            "Systems Architecture",
+            CompetencyLevel::Professional,
+            {"Design Patterns", "Microservices", "Distributed Systems"}
+        }
+    };
+}
