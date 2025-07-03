@@ -1,5 +1,6 @@
-<div align="center">
+
 <img src="https://raw.githubusercontent.com/ziadriyad/ziadriyad/main/assets/banner.gif" width="800"/>
+<div align="center">
 # Hi there, I'm Ziad Riyad 👋
 ### C++ Developer | Algorithms Expert 
 
