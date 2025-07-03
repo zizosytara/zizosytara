@@ -1,50 +1,57 @@
 <div align="center">
 
-<!-- 3D Animated C++ Header -->
-<a href="https://github.com/ziadriyad">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=20C20E&background=0D111700&center=true&vCenter=true&width=800&height=100&lines=console.log(%22Hello%2C%20World!%22);System.out.println(%22I'm%20Ziad%20Riyad%22);std::cout<<%22C%2B%2B%20Developer%22;print(%22From%20Egypt%20🇪🇬%22)" alt="Typing Animation" />
-</a>
+<!-- Professional Animated Banner -->
+<img src="https://raw.githubusercontent.com/ziadriyad/ziadriyad/main/assets/banner.gif" width="800"/>
 
-<!-- Matrix-style C++ animation -->
-<img src="https://raw.githubusercontent.com/ziadriyad/ziadriyad/main/assets/matrix.gif" width="600"/>
+<!-- Animated Title with Typing Effect -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=600&lines=Ziad+Riyad;Senior+C%2B%2B+Engineer;Algorithms+Specialist;Systems+Architect;From+Egypt+%F0%9F%87%AA%F0%9F%87%AC" alt="Typing Animation" />
+  </a>
+</h1>
 
-<!-- Animated Tech Stack -->
-<div>
-  <img src="https://skillicons.dev/icons?i=cpp,c,py,linux,git,vscode,cmake&perline=7" />
+<!-- Professional Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-Professional-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Systems-Architect-important?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Certified-Developer-blueviolet?style=for-the-badge"/>
+</p>
+
+<!-- Tech Stack Carousel -->
+<img src="https://raw.githubusercontent.com/ziadriyad/ziadriyad/main/assets/techstack.gif" width="700"/>
+
 </div>
 
-</div>
-
-## 🚀 C++ Expertise
+## 🏆 Professional Expertise
 
 ```cpp
-// Professional Skills Matrix
-#include <skills.h>
+// Professional Skills Framework
+namespace ProfessionalSkills {
+    enum class CompetencyLevel {
+        Principal, Senior, Professional
+    };
 
-enum class SkillLevel { Expert, Advanced, Intermediate };
+    struct CoreCompetency {
+        string name;
+        CompetencyLevel level;
+        vector<string> technologies;
+    };
 
-template<typename T>
-class SkillMatrix {
-    vector<pair<string, SkillLevel>> skills;
-public:
-    SkillMatrix() {
-        skills.emplace_back("Modern C++ (20/23)", SkillLevel::Expert);
-        skills.emplace_back("STL & Data Structures", SkillLevel::Expert);
-        skills.emplace_back("Multi-threading", SkillLevel::Advanced);
-        skills.emplace_back("Template Metaprogramming", SkillLevel::Advanced);
-        skills.emplace_back("Performance Optimization", SkillLevel::Expert);
-        skills.emplace_back("Competitive Programming", SkillLevel::Advanced);
-    }
-    
-    void display() const {
-        for(const auto& [skill, level] : skills) {
-            cout << "🧠 " << skill << " | ";
-            switch(level) {
-                case SkillLevel::Expert: cout << "★★★★★"; break;
-                case SkillLevel::Advanced: cout << "★★★★☆"; break;
-                case SkillLevel::Intermediate: cout << "★★★☆☆"; break;
-            }
-            cout << endl;
+    const vector<CoreCompetency> Profile = {
+        {
+            "Modern C++ Development", 
+            CompetencyLevel::Principal,
+            {"C++20/23", "STL", "Boost", "Template Metaprogramming"}
+        },
+        {
+            "High-Performance Computing",
+            CompetencyLevel::Senior,
+            {"Multithreading", "SIMD", "GPU Computing", "Lock-free Patterns"}
+        },
+        {
+            "Systems Architecture",
+            CompetencyLevel::Professional,
+            {"Design Patterns", "Microservices", "Distributed Systems"}
         }
-    }
-};
+    };
+}
