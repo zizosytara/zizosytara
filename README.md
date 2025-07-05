@@ -3,7 +3,7 @@
 # Hi there, I'm Ziad Riyad 👋
 ### C++ Developer | Algorithms Expert 
 
-[![Visits](https://komarev.com/ghpvc/?username=ziadriyad&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/ziadriyad)
+[![Visits](https://komarev.com/ghpvc/?username=zizisytara&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/zizosytara)
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Algorithms](https://img.shields.io/badge/-Algorithms-ff69b4?style=flat)](https://en.wikipedia.org/wiki/Algorithm)
 
